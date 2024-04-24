@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "list": ["premiumCustomer1", "premiumCustomer2"],
+            "type": "admin"
+        },
+        {
+            "list": ["customer1", "customer2"],
+            "type": "user"
+        }
+    ]
+}
